@@ -1,4 +1,4 @@
-# GLAB-370.1.3 The Dictionary Enigma
+# GLAB-370.2.3 The Dictionary Enigma
 
 ## Introduction
 Welcome to GLAB-370.1.3! Prepare yourself for an exciting adventure into the realm of dictionaries in Python. In this lab, you'll embark on a journey through The Dictionary Enigma, where you'll unravel the secrets of dictionaries and wield their power in Python. Get ready to unlock the mysteries of Python dictionaries!
