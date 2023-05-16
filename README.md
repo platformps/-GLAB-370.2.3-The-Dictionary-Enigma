@@ -1,4 +1,4 @@
-# GLAB-370.1.3 The Dictionary Enigma: Python Edition
+# GLAB-370.1.3 The Dictionary Enigma
 
 ## Introduction
 Welcome to GLAB-370.1.3! Prepare yourself for an exciting adventure into the realm of dictionaries in Python. In this lab, you'll embark on a journey through The Dictionary Enigma, where you'll unravel the secrets of dictionaries and wield their power in Python. Get ready to unlock the mysteries of Python dictionaries!
@@ -54,4 +54,4 @@ Feel free to embrace these ideas or create your own intriguing dictionary quests
 Once you've conquered coding challenges with your dictionary powers, share your enigmatic creations with others. Showcase your code snippets to friends, colleagues, or even on coding platforms. Sharing not only spreads knowledge but also inspires fellow adventurers to embark on their own Dictionary Enigma.
 
 ## Conclusion
-Congratulations on completing The Dictionary Enigma: Python Edition! You have mastered the art of dictionaries and harnessed their power to conquer coding challenges. Take these newfound dictionary powers and continue your journey into the vast realms of Python programming. The dictionary realm is full of mysteries and possibilities—keep exploring, creating, and unraveling the secrets with your dictionary powers!
+Congratulations on completing **The Dictionary Enigma!** You have mastered the art of dictionaries and harnessed their power to conquer coding challenges. Take these newfound dictionary powers and continue your journey into the vast realms of Python programming. The dictionary realm is full of mysteries and possibilities—keep exploring, creating, and unraveling the secrets with your dictionary powers!
